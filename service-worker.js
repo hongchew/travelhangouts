@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/travelhangouts/precache-manifest.c74eca77700255e5f115bacd061a5abc.js"
+  "/travelhangouts/precache-manifest.d18c193b8b028ae4d2061ff9e0458741.js"
 );
 
 self.addEventListener('message', (event) => {
