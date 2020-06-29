@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TravelHangouts
+This is a mock landing page website created for a National University of Singapore NUS Overseas College (Silicon Valley Program) New Venture Creation Module (TR3002)
+
+This website is a mock marketing material for a go-to-market publicity website for a new startup awaiting to launch their product
+
+All html inputs and external links are left non-functional intentionally
+
+## About (Technicals)
+This website is created using `create-react-app` and `react-bootstrap`, with some custom CSS to achieve desired look and feel. 
 
 ## Available Scripts
 
