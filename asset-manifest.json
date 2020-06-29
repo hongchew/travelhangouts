@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/travelhangouts/static/css/main.8a8444d9.chunk.css",
+    "main.js": "/travelhangouts/static/js/main.9a50574b.chunk.js",
+    "main.js.map": "/travelhangouts/static/js/main.9a50574b.chunk.js.map",
+    "runtime-main.js": "/travelhangouts/static/js/runtime-main.4eaab68f.js",
+    "runtime-main.js.map": "/travelhangouts/static/js/runtime-main.4eaab68f.js.map",
+    "static/js/2.008b3d6d.chunk.js": "/travelhangouts/static/js/2.008b3d6d.chunk.js",
+    "static/js/2.008b3d6d.chunk.js.map": "/travelhangouts/static/js/2.008b3d6d.chunk.js.map",
+    "index.html": "/travelhangouts/index.html",
+    "precache-manifest.c74eca77700255e5f115bacd061a5abc.js": "/travelhangouts/precache-manifest.c74eca77700255e5f115bacd061a5abc.js",
+    "service-worker.js": "/travelhangouts/service-worker.js",
+    "static/css/main.8a8444d9.chunk.css.map": "/travelhangouts/static/css/main.8a8444d9.chunk.css.map",
+    "static/js/2.008b3d6d.chunk.js.LICENSE.txt": "/travelhangouts/static/js/2.008b3d6d.chunk.js.LICENSE.txt",
+    "static/media/Solo-2.jpg": "/travelhangouts/static/media/Solo-2.5a720a5e.jpg",
+    "static/media/logo-transparent.png": "/travelhangouts/static/media/logo-transparent.23debf1a.png",
+    "static/media/safety.png": "/travelhangouts/static/media/safety.f7c21ae3.png",
+    "static/media/user-flow.png": "/travelhangouts/static/media/user-flow.a152b254.png",
+    "static/media/value.png": "/travelhangouts/static/media/value.c64d19b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eaab68f.js",
+    "static/js/2.008b3d6d.chunk.js",
+    "static/css/main.8a8444d9.chunk.css",
+    "static/js/main.9a50574b.chunk.js"
+  ]
+}
